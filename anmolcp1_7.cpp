@@ -6,4 +6,5 @@ int main()
   printf("Enter minutes : ");
   scanf("%f", &min);
   printf("hours = %.1f \n", min/60);
+
 }
